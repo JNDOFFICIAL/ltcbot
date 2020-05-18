@@ -1,5 +1,5 @@
-# Link LTClickBot Telegram
-Hargai Refferal : https://t.me/Litecoin_click_bot?start=agaY
+# Hargai Refferal : 
+https://t.me/Litecoin_click_bot?start=agaY
 
 # Cara Install 
 $ apt update && pkg upgrade<br>
